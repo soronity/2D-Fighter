@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\assets">
+      <UniqueIdentifier>{1ff60a3d-1e9f-4502-bf78-2df329a9f54e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\assets\redhood">
+      <UniqueIdentifier>{97bce3e2-ec75-4f08-bf65-56e133b0573f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\assets\evil_wizard">
+      <UniqueIdentifier>{5e637193-fbf0-4a40-b0c7-7dbfc39aaf83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\assets\environment_tileset">
+      <UniqueIdentifier>{ad3debe5-94de-4c52-ad95-df3f3bebaeee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="assets\redhood\wall slide-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\idle sheet-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\itch hurt 2 sheet-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\itch jump sheet-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\itch light atk sheet-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\itch run-Sheet sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\red hood itch free Copy-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\redhood\run turnaround-Sheet.png">
+      <Filter>Resource Files\assets\redhood</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Attack1.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Attack2.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Death.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Fall.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Idle.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Jump.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Run.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\evil_wizard\Sprites\Take hit.png">
+      <Filter>Resource Files\assets\evil_wizard</Filter>
+    </Image>
+    <Image Include="assets\environment\Background_0.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Background_1.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\brush.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Grass_background_1.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Grass_background_2.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Salt.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Tiles.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Social\moon.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Social\test_1.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+    <Image Include="assets\environment\Social\test_2.png">
+      <Filter>Resource Files\assets\environment_tileset</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
