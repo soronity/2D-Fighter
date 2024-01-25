@@ -3,3 +3,5 @@
 [O]obj/
 *.user
 *.suo
+"C:\Users\timel\source\repos\2D fighter\.vs\2D fighter\FileContentIndex\55d41ee1-314d-4a26-9bb1-a0639d2bf529.vsidx"
+"C:\Users\timel\source\repos\2D fighter\.vs\2D fighter\FileContentIndex\1e430407-b31c-4171-833b-dbadffe4482f.vsidx"
