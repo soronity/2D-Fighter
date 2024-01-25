@@ -1,4 +1,7 @@
-﻿  main.cpp
+﻿  Game.cpp
+  main.cpp
+  Generating Code...
+C:\Users\timel\source\repos\2D fighter\Game.cpp(13): warning C4717: 'Game::initPlayer': recursive on all control paths, function will cause runtime stack overflow
   2D fighter.vcxproj -> C:\Users\timel\source\repos\2D fighter\x64\Debug\2D fighter.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
